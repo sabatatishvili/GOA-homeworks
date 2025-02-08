@@ -161,6 +161,6 @@ isUgly = False #ჯავასკრიპტული camelcase
 #Print(type(knows_programming)))
 
 
-print(name + " " + str(age))
+#print(name + " " + str(age))
 
 print(name + " " + str(surname) + " " + str(age) + " " + str(height) + " " + str(knows_programming)) 
