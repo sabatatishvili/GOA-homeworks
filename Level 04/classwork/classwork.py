@@ -92,8 +92,8 @@ else:
 
 num5 = float(input("enter first number: "))
 num6 = float(input("enter second number: "))
-greatest = max(num5, num6)
-print = ("greatest number is: ")
+greatest = max(2, 3)
+print = ("greatest: ")
 
 numb = int(input("enter number"))
 
@@ -101,3 +101,13 @@ if num3 % 5 == 0:
     print("8")
 else:
     print("0")
+
+
+
+
+
+number = int(input("enter number"))
+if number >= 2001:
+    print("new century")
+else:
+    print("not new century")

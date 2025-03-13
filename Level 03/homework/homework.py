@@ -20,6 +20,6 @@ print (" mogesalmebi saba tatishvili")
 num8 = input (50)
 num9 = input (60)
  
-num10 = num8 + " 😊 " + num9
+print(num8 + " 😊 " + num9)
 
-print(num10)
+
